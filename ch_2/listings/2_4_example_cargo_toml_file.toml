@@ -1,0 +1,7 @@
+[package]
+name = "hello_world1"
+version = "0.1.0"
+authors = ["Author Name <aname@email.com>"]
+
+[dependencies]
+some_external_library = “0.2.4”

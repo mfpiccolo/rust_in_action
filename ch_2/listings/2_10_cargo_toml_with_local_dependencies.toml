@@ -1,0 +1,7 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["Mike Piccolo <my@email.com>"]
+
+[dependencies.print_hello_world]
+path = "../print_hello_world"

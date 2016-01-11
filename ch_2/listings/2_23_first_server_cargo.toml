@@ -1,0 +1,8 @@
+[package]
+name = "first_server"
+version = "0.1.0"
+authors = ["Mike Piccolo <my@email.com>"]
+description = "This is my first Rust server"
+
+[dependencies]
+hyper= "*"
